@@ -40,14 +40,14 @@ To write a program to find the 1-norm, 2-norm and infinity norm of the matrix an
 ```
 ## Output:
 ### 1-Norm of a Matrix
-        ![image (11)](https://user-images.githubusercontent.com/120232371/212464310-9b4a0e2d-5ee8-4daf-ad39-5016802d432a.png)
-
+ ![image (11)](https://user-images.githubusercontent.com/120232371/212464310-9b4a0e2d-5ee8-4daf-ad39-5016802d432a.png)
+  
 ### 2-Norm of a Matrix
-        ![image (12)](https://user-images.githubusercontent.com/120232371/212464445-76001930-ff86-4840-9722-6d15bb039f71.png)
+  ![image (12)](https://user-images.githubusercontent.com/120232371/212464445-76001930-ff86-4840-9722-6d15bb039f71.png)
 
 
 ### Infinity Norm of a Matrix
-       ![image (13)](https://user-images.githubusercontent.com/120232371/212464474-d8a6aeba-e88d-4d7a-959c-7253b2f893f1.png)
+ ![image (13)](https://user-images.githubusercontent.com/120232371/212464474-d8a6aeba-e88d-4d7a-959c-7253b2f893f1.png)
 
 
 ## Result
